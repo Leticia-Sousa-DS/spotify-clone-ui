@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+[JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
+[REACT__BADGE]: https://img.shields.io/badge/React-005CFE?style=for-the-badge&logo=react
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center" style="font-weight: bold;">Clone da Interface do Spotify </h1>
 
-## Available Scripts
+![react][REACT__BADGE]
+![javascript][JAVASCRIPT__BADGE]
 
-In the project directory, you can run:
+<p align="center">
+ <a href="#about">Sobre</a> • 
+ <a href="#started">Iniciando o Projeto</a> • 
+  <a href="#techs">Tecnologias</a> • 
+</p>
 
-### `npm start`
+<h2 id="started">📌 Sobre </h2>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Este projeto é um clone da interface inicial do Spotify, desenvolvido com React.js. O objetivo é recriar a tela principal da aplicação.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#Imersao-front-end-alura
 
-### `npm test`
+<h2 id="started">🚀 Iniciando o Projeto </h2>
+Este projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app) .
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 📜 Scripts disponíveis
 
-### `npm run build`
+No diretório do projeto, você pode executar:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### `npm start`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Executa o app em modo de desenvolvimento.  
+Abra [http://localhost:3000](http://localhost:3000) para ver no navegador.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+A página será recarregada sempre que você fizer alterações no código.  
+Você também verá erros de lint no console, se houver.
 
-### `npm run eject`
+#### `npm test`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Inicia o executor de testes no modo interativo.  
+Veja mais sobre como executar testes na [documentação](https://facebook.github.io/create-react-app/docs/running-tests).
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+#### `npm run build`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Cria uma versão otimizada para produção na pasta `build`.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Empacotado corretamente no modo produção
+- Minificado para melhor desempenho
+- Nomes de arquivos incluem hash para cache eficiente
 
-## Learn More
+Mais detalhes na [documentação de deployment](https://facebook.github.io/create-react-app/docs/deployment).
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### `npm run eject`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+⚠️ **Nota:** esta é uma operação **irreversível**.
 
-### Code Splitting
+Ao executar este comando, toda a configuração (Webpack, Babel, ESLint etc.) será exposta no projeto, permitindo personalização completa.  
+Use somente se realmente precisar de controle total sobre a configuração.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
+<h2 id="techs"> 💻 Tecnologias Utilizadas </h2>
 
-### Analyzing the Bundle Size
+- React.js
+- JavaScript (ES6+)
+- Font Awesome
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---

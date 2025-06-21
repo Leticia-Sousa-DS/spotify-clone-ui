@@ -1,0 +1,11 @@
+{
+    "artists": [
+    {"id": 1, "name": "Foo Fighters", "genre": "Rock","urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15"},
+    {"id": 2, "name": "Michael Jackson", "genre": "Pop", "urlImg": "https://i.scdn.co/image/ab676161000051740e08ea2c4d6789fbf5cbe0aa"},
+    {"id": 3,"name": "Racionais MC's", "genre": "Hip Hop", "urlImg": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Racionais_MC%27s.png"},
+    {"id": 4, "name": "Chitãozinho e Xororó", "genre": "Sertanejo", "urlImg": "https://i.scdn.co/image/ab676161000051744606c59411c57f7b49588be4"},
+    {"id": 5, "name": "Mc Daleste", "genre": "Funk", "urlImg": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/8f/ff/c28fffad-728c-de39-62f9-2f858e15999c/8720766576893.png/486x486bb.png"},
+    {"id": 6, "name": "Martinho da Vila", "genre": "Samba", "urlImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGpfXGWIhNQTE7mYCP6jb6Owuvxd1Wn-kYTQ&s"},
+    {"id": 7, "name": "Djavan", "genre": "MPB", "urlImg":"https://djavan.com.br/content/uploads/2018/11/oceano.jpg"}
+    ]
+}

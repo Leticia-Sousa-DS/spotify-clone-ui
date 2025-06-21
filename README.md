@@ -34,6 +34,3 @@ Este projeto é um clone da interface inicial do Spotify, desenvolvido com HTML,
 - JavaScript (ES6+)
 - Font Awesome (para ícones)
 
----
-
-📁 **Estrutura simples**, ideal para iniciantes explorarem como interfaces modernas são construídas do zero sem frameworks.
